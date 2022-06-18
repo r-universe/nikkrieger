@@ -1,0 +1,10 @@
+[
+  {
+    "package": "sociome",
+    "oncran": true
+  },
+  {
+    "package": "USpopcenters",
+    "oncran": true
+  }
+]
