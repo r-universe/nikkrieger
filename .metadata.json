@@ -1,10 +1,10 @@
 [
   {
-    "package": "sociome",
+    "package": "USpopcenters",
     "oncran": true
   },
   {
-    "package": "USpopcenters",
+    "package": "sociome",
     "oncran": true
   }
 ]
