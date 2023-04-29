@@ -18,3 +18,8 @@
 	url = https://github.com/nikkrieger/uspopcenters
 	shallow = true
 	registered = true
+[submodule "withdots"]
+	path = withdots
+	url = https://github.com/nikkrieger/withdots
+	shallow = true
+	registered = true
