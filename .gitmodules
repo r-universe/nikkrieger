@@ -5,6 +5,9 @@
 [submodule "USpopcenters"]
 	path = USpopcenters
 	url = https://github.com/nikkrieger/uspopcenters
+[submodule "splinetrials"]
+	path = splinetrials
+	url = https://github.com/nikkrieger/splinetrials
 [submodule "withdots"]
 	path = withdots
 	url = https://github.com/nikkrieger/withdots
